@@ -1,7 +1,7 @@
 <h2 align="center">👋Hi, I'm developer Yougjae Kim!</h2>
 <ul>
     <li>age : 18</li><li>job : student</li>
-    <li>country : South Korea</li>
+    <li>country : Republic of Korea</li>
 </ul>
 
 ### I'm not good at coding, but I'm studying hard now..!👨🏻‍💻
